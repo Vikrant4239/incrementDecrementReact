@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incrementDecrementReact/static/css/main.5a8df21f.css",
+    "main.js": "/incrementDecrementReact/static/js/main.11860ae7.js",
+    "index.html": "/incrementDecrementReact/index.html",
+    "main.5a8df21f.css.map": "/incrementDecrementReact/static/css/main.5a8df21f.css.map",
+    "main.11860ae7.js.map": "/incrementDecrementReact/static/js/main.11860ae7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8df21f.css",
+    "static/js/main.11860ae7.js"
+  ]
+}
